@@ -1,6 +1,6 @@
 main{
 }
-/* Navbar */
+/* Navbar Start*/
 .navbar-menu{
   display: flex;
   justify-content: space-between;
@@ -28,3 +28,9 @@ main{
 .navbar-menu .active{
   color: #05ff09;
 }
+/* Navbar End */
+/* Hero Start*/
+.hero{
+  background:url('https://cdn.pixabay.com/photo/2020/09/19/12/49/woman-5584373_1280.jpg') no-repeat center center/cover;')
+}
+/* Hero End*/

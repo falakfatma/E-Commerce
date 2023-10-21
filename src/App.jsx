@@ -1,5 +1,6 @@
 import './App.css'
 import Navbar from './Components/Navbar'
+import Hero from './Components/Hero'
 export default function App() {
   return (
     <main>
@@ -10,6 +11,7 @@ export default function App() {
       featured products
       footer */}
       <Navbar />
+      <Hero />
     </main>
   )
 }
