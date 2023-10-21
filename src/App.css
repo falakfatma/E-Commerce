@@ -1,0 +1,28 @@
+main{
+  
+}
+/* Navbar */
+.navbar-menu{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  padding-inline: 20%;
+  margin:0;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  transition: all 0.3s ease-in-out;
+  list-style:none;
+}
+.LogIn{
+  padding-left:3rem;
+}
+.navbar-menu a{
+  text-decoration: none;
+  color: #121111;
+}
