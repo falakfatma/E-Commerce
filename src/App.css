@@ -26,11 +26,18 @@ main{
   color: #121111;
 }
 .navbar-menu .active{
-  color: #05ff09;
+  color: violet;
 }
 /* Navbar End */
 /* Hero Start*/
 .hero{
-  background:url('https://cdn.pixabay.com/photo/2020/09/19/12/49/woman-5584373_1280.jpg') no-repeat center center/cover;')
+  margin-top:5rem;
+  height:30rem;
+  /* background:url('Choose Image') no-repeat center center/cover; */
+}
+.hero h1{
+  font-size:3rem;
+  padding-top:3rem;
+  color:pink;
 }
 /* Hero End*/

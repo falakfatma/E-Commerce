@@ -4,6 +4,8 @@ import Hero from './Components/Hero'
 export default function App() {
   return (
     <main>
+      {/* Colour combination */}
+       {/* purple and white ,pink, blue, brown, or gray */}
       {/* navbar
       main = hero page
       exclusive offer
