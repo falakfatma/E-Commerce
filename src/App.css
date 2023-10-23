@@ -33,7 +33,7 @@ main{
 .hero{
   margin-top:5rem;
   height:30rem;
-  /* background:url('Choose Image') no-repeat center center/cover; */
+  background:url('https://cdn.pixabay.com/photo/2018/01/12/10/19/fantasy-3077928_1280.jpg') no-repeat center center/cover;
 }
 .hero h1{
   font-size:3rem;

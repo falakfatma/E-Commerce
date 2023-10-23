@@ -1,6 +1,7 @@
 import './App.css'
 import Navbar from './Components/Navbar'
 import Hero from './Components/Hero'
+import Cards from './Components/Cards'
 export default function App() {
   return (
     <main>
@@ -14,6 +15,7 @@ export default function App() {
       footer */}
       <Navbar />
       <Hero />
+      <Cards />
     </main>
   )
 }
